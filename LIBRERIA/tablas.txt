@@ -1,0 +1,28 @@
+MARCADORES
+mar_id
+mar_fechaevento
+mar_horaevento
+mar_fecharegistro
+mar_horaregistro
+mar_marcadorequi1
+mar_marcadorequi2
+equi_id1
+equi_id2
+dep_id
+usu_id
+
+
+DEPORTES
+dep_id
+dep_nombre  //unique
+
+USUARIOS
+usu_id
+usu_email
+usu_clave
+usu_nombres
+usu_apellidos
+
+EQUIPOS
+equi_id
+equi_nombre   //unique
